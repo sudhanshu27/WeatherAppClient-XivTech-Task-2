@@ -10,6 +10,6 @@ Create a simple UI app which accepts the names of the cities as input in a text 
 ***Server is Deployed on render: This porject is Live***   
 
 Link: https://sudhanshu27.github.io/WeatherAppClient-XivTech-Task-2/
-
-
-    ---------------X--------------------X-------------------------
+  
+  
+X---------------X-----------END-----------X---------------------X
